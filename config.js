@@ -62,12 +62,12 @@ global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 global.nomorbot = '628871744663' //Nomor Bot
 global.nomorown = '628871744663' //Nomor Owner
 global.namebot = 'Krisna BOT' //Nama Bot
-global.nameown = '𝓧𝓲𝓪𝓸 - 𝓨𝓪𝓷' // Nama Owner
+global.nameown = 'Krisna - Ofc' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285736178354', '❦ 𝚇 𝚒 𝚊 𝚘 - 𝚈𝚊𝚗? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['628871744663', 'K r i s n a - OFC? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
